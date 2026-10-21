@@ -1993,6 +1993,41 @@
 </details>
 
 <details>
+<summary><b><strong>Snapdragon 7s Gen 3 Devices</strong></b></summary>
+
+<br>
+
+<details>
+<summary><b><strong>Nothing Devices</strong></b></summary>
+
+## Nothing Phone (3a)
+
+**State:** Active <br>
+**Codename:** asteroids
+
+**Contributors:** Saalim Quadri
+
+### UEFI Status
+
+| Feature            | Description | State |
+|:-------------------|:------------|:-----:|
+| Display            |             | ✅    |
+| Internal Storage   |             | ✅    |
+| Side Buttons       |             | ✅    |
+| USB Host Mode      |             | ❔    |
+| USB Device Mode    |             | ✅    |
+| USB Power Delivery |             | ❔    |
+| Mass Storage       |             | ✅    |
+| Windows Boot       |             | ❔    |
+| Linux Boot         |             | ❔    |
+
+</details>
+
+---
+
+</details>
+
+<details>
 <summary><b><strong>Snapdragon 7s Gen 2/6 Gen 1 Devices</strong></b></summary>
 
 <br>
